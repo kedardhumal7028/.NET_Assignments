@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Find_Nth_Term_Of_The_Series", "2_Find_Nth_Term_Of_The_Series\2_Find_Nth_Term_Of_The_Series.csproj", "{F51E38EE-0459-452F-9E29-968440581563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51E38EE-0459-452F-9E29-968440581563}.Debug|x86.ActiveCfg = Debug|x86
+		{F51E38EE-0459-452F-9E29-968440581563}.Debug|x86.Build.0 = Debug|x86
+		{F51E38EE-0459-452F-9E29-968440581563}.Release|x86.ActiveCfg = Release|x86
+		{F51E38EE-0459-452F-9E29-968440581563}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

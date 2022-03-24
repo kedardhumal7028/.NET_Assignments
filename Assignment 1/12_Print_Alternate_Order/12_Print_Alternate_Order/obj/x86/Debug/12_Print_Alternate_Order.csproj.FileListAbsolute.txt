@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\12_Print_Alternate_Order\12_Print_Alternate_Order\bin\Debug\12_Print_Alternate_Order.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\12_Print_Alternate_Order\12_Print_Alternate_Order\bin\Debug\12_Print_Alternate_Order.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\12_Print_Alternate_Order\12_Print_Alternate_Order\obj\x86\Debug\12_Print_Alternate_Order.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\12_Print_Alternate_Order\12_Print_Alternate_Order\obj\x86\Debug\12_Print_Alternate_Order.pdb

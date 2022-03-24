@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\2_Find_Nth_Term_Of_The_Series\2_Find_Nth_Term_Of_The_Series\bin\Debug\2_Find_Nth_Term_Of_The_Series.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\2_Find_Nth_Term_Of_The_Series\2_Find_Nth_Term_Of_The_Series\bin\Debug\2_Find_Nth_Term_Of_The_Series.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\2_Find_Nth_Term_Of_The_Series\2_Find_Nth_Term_Of_The_Series\obj\x86\Debug\2_Find_Nth_Term_Of_The_Series.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\2_Find_Nth_Term_Of_The_Series\2_Find_Nth_Term_Of_The_Series\obj\x86\Debug\2_Find_Nth_Term_Of_The_Series.pdb
