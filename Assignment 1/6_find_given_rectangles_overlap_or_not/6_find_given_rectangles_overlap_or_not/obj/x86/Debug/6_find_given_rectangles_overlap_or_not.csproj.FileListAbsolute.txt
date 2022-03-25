@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\6_find_given_rectangles_overlap_or_not\6_find_given_rectangles_overlap_or_not\bin\Debug\6_find_given_rectangles_overlap_or_not.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\6_find_given_rectangles_overlap_or_not\6_find_given_rectangles_overlap_or_not\bin\Debug\6_find_given_rectangles_overlap_or_not.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\6_find_given_rectangles_overlap_or_not\6_find_given_rectangles_overlap_or_not\obj\x86\Debug\6_find_given_rectangles_overlap_or_not.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\6_find_given_rectangles_overlap_or_not\6_find_given_rectangles_overlap_or_not\obj\x86\Debug\6_find_given_rectangles_overlap_or_not.pdb
