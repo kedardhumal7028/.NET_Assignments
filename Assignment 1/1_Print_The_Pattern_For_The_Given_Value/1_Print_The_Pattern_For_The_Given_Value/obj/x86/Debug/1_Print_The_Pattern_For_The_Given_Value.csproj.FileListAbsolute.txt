@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\1_Print_The_Pattern_For_The_Given_Value\1_Print_The_Pattern_For_The_Given_Value\bin\Debug\1_Print_The_Pattern_For_The_Given_Value.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\1_Print_The_Pattern_For_The_Given_Value\1_Print_The_Pattern_For_The_Given_Value\bin\Debug\1_Print_The_Pattern_For_The_Given_Value.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\1_Print_The_Pattern_For_The_Given_Value\1_Print_The_Pattern_For_The_Given_Value\obj\x86\Debug\1_Print_The_Pattern_For_The_Given_Value.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\1_Print_The_Pattern_For_The_Given_Value\1_Print_The_Pattern_For_The_Given_Value\obj\x86\Debug\1_Print_The_Pattern_For_The_Given_Value.pdb

@@ -9,13 +9,29 @@ namespace _1_Print_The_Pattern_For_The_Given_Value
     {
         static void Main(string[] args)
         {
-            int n ;
-            Console.Write("\n Enter a number: ");
-            n = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < n; i++)
+            int N = 0;
+
+            Console.Write("Enter a Number : ");
+            N = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine();
+
+            for (int i = 0; i < N; i++)
             {
-                
+                for (int j = N; j > 0; j--)
+                {
+                    for (int k = N; k > i; k--)
+                    {
+                        Console.Write(j);
+
+                    }
+                }
+                Console.WriteLine();
             }
+
+            Console.WriteLine();
+
+            Console.ReadKey();
         }
     }
 }
