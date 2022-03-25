@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Check_Given_No_Of_Power", "10_Check_Given_No_Of_Power\10_Check_Given_No_Of_Power.csproj", "{3CE142A8-8CE3-4748-872A-6E8C042DB1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE142A8-8CE3-4748-872A-6E8C042DB1DA}.Debug|x86.ActiveCfg = Debug|x86
+		{3CE142A8-8CE3-4748-872A-6E8C042DB1DA}.Debug|x86.Build.0 = Debug|x86
+		{3CE142A8-8CE3-4748-872A-6E8C042DB1DA}.Release|x86.ActiveCfg = Release|x86
+		{3CE142A8-8CE3-4748-872A-6E8C042DB1DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

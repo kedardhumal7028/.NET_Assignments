@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\5_Sample_Space\5_Sample_Space\bin\Debug\5_Sample_Space.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\5_Sample_Space\5_Sample_Space\bin\Debug\5_Sample_Space.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\5_Sample_Space\5_Sample_Space\obj\x86\Debug\5_Sample_Space.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\5_Sample_Space\5_Sample_Space\obj\x86\Debug\5_Sample_Space.pdb

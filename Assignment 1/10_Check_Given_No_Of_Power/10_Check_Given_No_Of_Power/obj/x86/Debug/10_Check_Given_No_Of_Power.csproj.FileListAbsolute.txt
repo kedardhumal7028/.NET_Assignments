@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\10_Check_Given_No_Of_Power\10_Check_Given_No_Of_Power\bin\Debug\10_Check_Given_No_Of_Power.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\10_Check_Given_No_Of_Power\10_Check_Given_No_Of_Power\bin\Debug\10_Check_Given_No_Of_Power.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\10_Check_Given_No_Of_Power\10_Check_Given_No_Of_Power\obj\x86\Debug\10_Check_Given_No_Of_Power.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\10_Check_Given_No_Of_Power\10_Check_Given_No_Of_Power\obj\x86\Debug\10_Check_Given_No_Of_Power.pdb

@@ -1,0 +1,4 @@
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\7_Find_the_number_of_trailing_zeroes\7_Find_the_number_of_trailing_zeroes\bin\Debug\7_Find_the_number_of_trailing_zeroes.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\7_Find_the_number_of_trailing_zeroes\7_Find_the_number_of_trailing_zeroes\bin\Debug\7_Find_the_number_of_trailing_zeroes.pdb
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\7_Find_the_number_of_trailing_zeroes\7_Find_the_number_of_trailing_zeroes\obj\x86\Debug\7_Find_the_number_of_trailing_zeroes.exe
+C:\Users\kedar\Desktop\Kedar\Assignment Programs\Assignment 1\7_Find_the_number_of_trailing_zeroes\7_Find_the_number_of_trailing_zeroes\obj\x86\Debug\7_Find_the_number_of_trailing_zeroes.pdb
